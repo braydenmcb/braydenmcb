@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>       -  Portfolio Website<br>       -  Business Website<br>       -  Attendance Database<br><br>🌱 I’m currently learning<br>       - Algorithms and Data Structures<br>       - File and Database Management (SQLite)<br>       - AI and Machine Learning<br>       - AWS<br>
+🔭 I’m currently working on:<br>       -  Portfolio Website<br>       -  Business Website<br>       -  Attendance Database<br><br>🌱 I’m currently learning<br>       - Algorithms and Data Structures<br>       - React.js<br>       - AI and Machine Learning<br>       - AWS<br>
 
 
 ## 🌐 Socials:
